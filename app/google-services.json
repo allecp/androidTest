@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598758829787",
+    "project_id": "test-project-f30ca",
+    "storage_bucket": "test-project-f30ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598758829787:android:6182ab233eeaaf20b4a6fe",
+        "android_client_info": {
+          "package_name": "com.example.firstrealapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598758829787-p88rt6h3pijf5cte2pcn119lm0k1qoq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpuLTnmZX6Ni5wMbVSW0SfcVfe43AkRYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598758829787-p88rt6h3pijf5cte2pcn119lm0k1qoq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
